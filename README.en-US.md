@@ -105,7 +105,7 @@ As you can see, there are 3 sessions for this Lab, as there are several difficul
 
 ## Advice
 
-My first piece of advice is to set aside the game's algorithms to get started. Concentrate on making a grid of buttons appear, so that when you click on each button, it displays its coordinate in a MessageBox. This is great for the first session!
+My first piece of advice is to set aside the game's algorithms to get started. Concentrate on making a grid of buttons appear, so that when you click on a button, it displays its coordinate in a MessageBox. This is great for the first session!
 
 ### Attributes
 
