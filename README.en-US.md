@@ -182,7 +182,7 @@ int col = Grid.GetColumn(b);
 int row = Grid.GetRow(b);
 ```
 
-As a gift, a function that returns the control located in a grid at given coordinates:
+As a gift, here's a function that returns the control located in a grid at given coordinates:
 ```
 private UIElement GetUIElementFromPosition(Grid g, int col, int row)
 {
