@@ -26,7 +26,7 @@ To do this, they can click on a cell to reveal its contents. If the clicked cell
 
 <img src="./img/demoMS2.JPG" width="30%"/>
 
-If the clicked cell did not contain a bomb, then the game can continue and part of the grid is uncovered by performing the following check:
+If the clicked cell did not contain a bomb, then the game continues and part of the grid is uncovered on the basis of the the following verifications:
 - If the clicked cell (which didn't contain a bomb) has at least one bomb in its immediate vicinity (one cell around in all directions, even diagonally), then this cell reveals the number of bombs in this immediate vicinity and we stop there.
 - On the other hand, if the clicked cell has no bombs in its immediate vicinity, then it reveals an empty square, and the game checks its immediate neighbors as well. From neighbor to neighbor, if many of the cells visited are empty and not surrounded by bombs, then a large part of the grid can be revealed with a single click.
 
