@@ -32,7 +32,7 @@ If the clicked cell did not contain a bomb, then the game continues and part of 
 
 <img src="./img/demoMS3.JPG" width="30%"/>
 
-There's a bit of luck involved at the start, as there are no clues as to where to click, but once numbers have been revealed, the aim of the game is to use these numbers to deduce where the bombs are likely to be.
+There's a bit of luck involved at the start of the game, as there are no clues as to where to click, but once numbers have been revealed, the aim of the game is to use these numbers to deduce where the bombs are likely to be.
 
 <img src="./img/demoMS3.JPG" width="30%"/>
 <img src="./img/demoMS4.JPG" width="30%"/>
