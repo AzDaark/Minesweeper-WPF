@@ -18,7 +18,7 @@ Here are some examples of games for the Minesweeper, which was a classic Windows
 <img src="./img/minesweeper3.png" height="200"/>
 
 #### The aim of the game is as follows:  
-The player plays on a grid whose cells are all hidden at start-up (some of which may contain bombs) and must reveal all cells that do not contain bombs. In some versions, this is supposed to be done as fast as possible.
+The player plays on a grid where cells are all hidden when the game starts (some of these cells may contain bombs) and must reveal all cells that do not contain bombs. In some versions, this is supposed to be done as fast as possible.
  
 <img src="./img/demoMS1.JPG" width="30%"/>
 
