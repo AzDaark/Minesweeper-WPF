@@ -66,8 +66,8 @@ As you can see, there are 3 sessions for this Lab, as there are several difficul
 > > pip install travo
 > > ```
 > 
-> On the IUT computer, go to the C:WinPython directory and run the "WinPython Powershell Prompt.exe" program. A Powershell terminal will open, ready to receive Python commands.
-> Inside this PowerShell terminal, first type the following command, enabling you to move to > your personal space:
+> On the IUT computer (under Windows), you'll find a shortcut on the desktop to open the PowerShell command terminal configured to use Python. Simply double-click on the desktop shortcut “Powershell WinPython”, and a Powershell terminal will open, ready to receive Python commands.
+> Inside this PowerShell terminal, you can type commands similar to those you'd type in a terminal under Linux. First, type the following command, allowing you to move to your personal space if you're not already there:
 > 
 > ```
 > cd Z:\
